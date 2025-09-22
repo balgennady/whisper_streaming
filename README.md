@@ -274,7 +274,6 @@ Backends: WhisperStreaming still has an advantage of more backend options; faste
 
 Licence: WhisperStreaming is under the open MIT licence. SimulStreaming is dual licenced. It is free for non-commercial use, and affordable for commercial use.
 
-## Contact
+## Links
 
-Dominik Macháček, machacek@ufal.mff.cuni.cz
-
+- [Can Whisper be used for real-time streaming ASR](https://www.youtube.com/watch?v=_spinzpEeFM)
